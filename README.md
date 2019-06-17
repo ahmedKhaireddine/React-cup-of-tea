@@ -1,14 +1,13 @@
 # CUPOFTEA
 
-**CUPOFTEA** - *(Movie_react)* - est une application react utilisant l'[API TheMovieDb](https://www.themoviedb.org/). 
+**CUPOFTEA** est une application react e-commerce utilisant une API internet. 
 
 *Desktop Version*
 
-![alt]()
+![alt](https://github.com/ahmedKhaireddine/ahmedKhaireddinegif.github.io/blob/master/ezgif.com-video-to-gif%20(1).gif?raw=true)
 
 Cette dernière nous permet :
 
-► De découvrir les films les plus populaires du moment.
-► De générer aléatoirement un film de la base de donnée *(tinderLike)*.
-► D'enregistrer ces films sur une liste, de la gérer et de pouvoir la sauvegarder en PDF.
+► De découvrir les nouveaux produit et les produit existente.
+► De permet de connecter et commander des produit.
 ```
